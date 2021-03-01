@@ -16,4 +16,6 @@ If you would like to edit little by little, you could try:
 sass --watch --no-source-map scss/mario.scss css/mario.css
 ```
 
-To make the sass compiler recompile automatically upon changes.
+to make the sass compiler recompile automatically upon changes.
+
+Click [here](https://zhuzilin.github.io/PIXEL.css/) for the running Mario in `index.html`!
