@@ -1,5 +1,7 @@
 # PIXEL.css
 
+![](img/mario.gif)
+
 This repo extracted the pixel art code from the fun and famous [NES.css](https://github.com/nostalgic-css/NES.css).
 
 To create your own pixel art, please change the bitmap in `scss/mario.scss` (or rename to your favorite character :P) and run:
